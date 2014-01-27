@@ -9,8 +9,8 @@ var keystone = require('keystone');
 
 keystone.init({
 	
-	'name': 'Keystone ReVamped',
-	'brand': 'ReVamp',
+	'name': 'H2O',
+	'brand': 'H2O',
 	
 	'favicon': 'public/favicon.ico',
 	'less': 'public',
