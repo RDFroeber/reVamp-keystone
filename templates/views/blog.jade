@@ -3,7 +3,7 @@ extends ../layouts/default
 include ../mixins/post
 
 block content
-	h1=data.category ? data.category.name : 'Blog'
+	h1=data.category ? data.category.name : 'News'
 	//- p.lead
 		if user && user.canAccessKeystone
 			| Edit the blog with the <a href='/keystone/posts'>Keystone Admin UI</a>, or click the 'edit post' link that will appear for each post on hover.
