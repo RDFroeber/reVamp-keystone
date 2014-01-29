@@ -1,24 +1,9 @@
-Keystone Demo
+Keystone Demo ReVamped
 =============
 
 This site is an example of a default [Keystone](http://keystonejs.com) application.
 
 Try it out at http://demo.keystonejs.com
-
-It's a great basis to use when starting a Keystone project; just `git clone`
-this repository and start making changes.
-
-Pull requests are welcome, or if you'd like to see additional demos just open a
-new issue.
-
-
-## Using this as a basis for your own project
-
-*Note: We're implementing a new theme for the demo site; to use the (old) basic bootstrap theme, check out the `bootstrap-simple` branch*
-
-    git clone https://github.com/JedWatson/keystone-demo.git
-    cd keystone-demo
-    npm install
 
 ### Setting up your accounts and environment
 
@@ -80,12 +65,6 @@ Some places to start:
 *   `./models` - these files are included by `./models/index.js` and each one sets up a different database model in your application. If you add more, be sure to add them to the index file!
 
 Check out the [Keystone Guide](http://keystonejs.com/guide) for documentation.
-
-### Ask us questions or tell us what you built
-
-We love to hear what people are doing with KeystoneJS, and are always happy to help if you get stuck.
-
-Please reach out to us via the [KeystoneJS Google Group](https://groups.google.com/d/forum/keystonejs) or **@keystonejs** on twitter.
 
 ## License
 
